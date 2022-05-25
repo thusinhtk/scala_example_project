@@ -14,9 +14,11 @@ object Main {
     */
 
     /*  Block */
+    /*
     println({
       val x = 10
       x+1
     })
+    */
   }
 }
